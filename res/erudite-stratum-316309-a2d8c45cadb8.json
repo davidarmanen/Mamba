@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "erudite-stratum-316309",
+  "private_key_id": "a2d8c45cadb841b1b1535cbd719eab433bab902d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1kAoGYBCkezJa\nlceyLJHU3QxRA8AOM+f5MrnJapOfLPPkmzEiNJAYZL7+SYxZc3vA6LCK4L+nOU0u\n4Pu/8plvkFkEmCjRS+KeIuUEo7kAsA9p0QZ1Ncm8ajiSXoQYnYbD/LsaE+zxoky7\na8YWGF1LvftTFXHazz69gKC1RFzqMVQPrd2u9F6YMhGRm3XOfJu7ojwfiQQezYIt\ntlprKTlWUEB6WXm/FEMR2wzt3eo1RIXRuobU3g/r/+mpeChZ5MSM6cSbJILM1DAk\nEIqa1yiwZS0iki+CxsODrYWbcHS8oyeAYG7mpoz3t2WvnZf8Z3flaY40jXc2y70Q\nhz0gxRDrAgMBAAECggEACAyiPSUeJ8Skd1qjl1UdhAPmy2KwrZCEjMpAbVsRv2FV\nUMHGnF8bMlGpHAnztHWHu4Y1aXrMVGQYdWcZEin1vnn2UFtUl+7W1a7zW1DM32hu\nzoCrWh/v2TAWYPravWKiembmfqH6g73vy/Fbv1gGLtj13vmY6hv9Cpa8yTyGKAXD\nebFIpKuxGIk1rm4NHjoyvUBNvHUHldP+Y3TBAQWl/9DWTvI+BPAIeNpQX3kGUOlA\nbSD7IHv+eOz8iChHNpO9ALxKjPiWQm51I4GyKITKdelRyNdfOPWP4jGjNm0VWdnB\nQdLjGAixBCeIT2PvvxLCxlTDOYdE7ohImldhfzKUrQKBgQD820znmLaNEitga4sY\n4/KM9CGoACrbsRdN+v/YPvtMKzDRyh7oC129IzlCkYKue8YafEPV5r+6nT4meynM\njIV07fyJ8BDacgPibtVc9FZbvP/3FFTFRYjBrjIOkOzHpL9gJ3oJO5d9sP1UxPue\n/cBFFmJaotfTZVMHlxAbonYC9wKBgQC30dmvS6ZhTAYOWv8tce9A6usPJLgRtYNv\nJbRPLWZFJfBTyk30w7M6H+dVG1dUwM0Gz/Fnc1QKEeCarqc6SiN6ZmEF3jY4UqT9\n7bk0EDz1az4eHrPT2joZpRCNoqbwdVHccT/VtJfupUNi/yPrxw5MkonGEYMGYqfh\nE8oOMM9wrQKBgFGFPnkYYhp/Nh7i7Th8HTHWb5djXm3v3UyV1LBaNdirwBSS7n3v\nVCxrU8Wjdhdc7lSRpakruLqogWYUpTg+QbSeGaI7FKPoyFnTU9ShLcpr17ZIBsCH\nF30h9R9/F+eRtOWCNLUPUlsCmdofm+P5eWiMu+7uu1h7PVagHGBcc2GnAoGAA+bJ\nVwYlBuWlL0LRLbbAXEFgMdcWrRGMM5y6Qf/1rrwKaMzfcLWCpVYuA8lrxhm9gEqD\nli2FeB0/Bil01TDjpeJsZsJ7piBi7hzQlIFPuenHzL3cFUAJgafWPRtZrbrfvO0O\nbMvDecY6Muy1Z3i3HfryP6j5ffY0F/viiwCQNpUCgYEA1OYJfzPyYJqL0s+Ml5Tg\nGN6yDlBerz4YwD0nvFVKdTldzkQ+hrf8GEqBCrzxM3i9gHu6Vdx3XLrViwzJ3oq8\ndtcPkDvMj/APBl/Q58CZdL2MF3jsVuzsqlKLxS/uxWH3OdRQL8t53x2TSEFGxd4C\n9CI4Aq3hMTCw4TNN0Kyz0bc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "davidarmanen@erudite-stratum-316309.iam.gserviceaccount.com",
+  "client_id": "113211975908195843884",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/davidarmanen%40erudite-stratum-316309.iam.gserviceaccount.com"
+}
